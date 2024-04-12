@@ -23,6 +23,6 @@ Circuit netlist.
 
 👤 **[jakubito11](https://github.com/jakubito11)**
 
-## Licence
+## License
 
 [apache-2.0](https://choosealicense.com/licenses/apache-2.0/)
