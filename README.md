@@ -1,28 +1,28 @@
 # LogicSim
 
-## Úvod
+## Introduction
 
-Simulátor logických obvodov vytvorený v jazyku JavaScript a s pomocou Konva.js knižnice (https://konvajs.org/). Možná simulácia kombinačných aj sekvenčných obvodov.
+Logic circuit simulator created in JavaScript and with the help of the Konva.js library (https://konvajs.org/). It is possibleb to simulate combinational and sequential circuits.
 
-## Ukážka
+## Demo
 
 ![demo gif animation](demo.gif)
 
-Vyskúšajte si to na **(https://jakubito11.github.io/logicsim)**
+Try it on **(https://jakubito11.github.io/logicsim)**
 
 ## Limitácie
 
-Skoro žiadna podpora pre menšie obrazovky a mobily.
+No support for smaller screens and mobiles.
 
 ## :wrench: TODO
 
-Dokumentácia súčiastok.\
-Textový zoznam obvodu.
+Circuit components documentation.\
+Circuit netlist.
 
-## Autor
+## Author
 
 👤 **[jakubito11](https://github.com/jakubito11)**
 
-## Licencia
+## Licence
 
 [apache-2.0](https://choosealicense.com/licenses/apache-2.0/)
