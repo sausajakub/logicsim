@@ -10,7 +10,7 @@ Logic circuit simulator created in JavaScript and with the help of the Konva.js 
 
 Try it on **(https://jakubito11.github.io/logicsim)**
 
-## Limitácie
+## Limitations
 
 No support for smaller screens and mobiles.
 
