@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Logic circuit simulator created in JavaScript and with the help of the Konva.js library (https://konvajs.org/). It is possibleb to simulate combinational and sequential circuits.
+Logic circuit simulator created in JavaScript and with the help of the Konva.js library (https://konvajs.org/). It is possible to simulate combinational and sequential circuits.
 
 ## Demo
 
