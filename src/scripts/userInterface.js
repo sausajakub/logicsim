@@ -5,7 +5,7 @@ import { lang } from "./language.js";
 class UserInterface {
     constructor() {
         this.theme = "dark";
-        this.language = "slovak";
+        this.language = "english";
         this.circuitsCounter = 0;
         this.tutorialCounter = 0;
         this.showGrid = true;
