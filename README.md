@@ -21,7 +21,7 @@ Circuit netlist.
 
 ## Author
 
-👤 **[jakubito11](https://github.com/jakubito11)**
+👤 **[Jakub Šauša](https://github.com/jakubito11)**
 
 ## License
 
