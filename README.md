@@ -1,4 +1,8 @@
-# LogicSim
+# LogicSim Old Version
+
+## Big Improvement to the whole web app
+
+You can now access the whole application with big improvements including (registration and login system, circuit database, new editor and many more) on https://k-tech.sk
 
 ## Introduction
 
