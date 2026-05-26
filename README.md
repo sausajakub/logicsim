@@ -2,7 +2,7 @@
 
 ## Web App
 
-Version that is running on this repository code access it here **(https://jakubito11.github.io/logicsim)**
+Version that is running on this repository code access it here **(https://atomicpunk1.github.io/logicsim)**
 
 ## Introduction
 
