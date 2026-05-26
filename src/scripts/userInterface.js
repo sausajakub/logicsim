@@ -102,7 +102,6 @@ class UserInterface {
                         <ul class="rightMenuItems">
                         ${this.createModalList(lang[this.language].Circuits, icons.circuits, "openModal", "modalCircuits")}
                         ${this.createModalList(lang[this.language].Docs, icons.docs, "openModal", "modalDocs")}
-                        ${this.createModalList(lang[this.language].About, icons.about, "openModal", "modalAbout")}
                         ${this.createLink(lang[this.language].Github, icons.github)}
                         </ul>
                     </div>
