@@ -1,8 +1,8 @@
 # LogicSim Old Version
 
-## Big Improvement to the whole web app
+## Web App
 
-You can now access the whole application with big improvements including (registration and login system, circuit database, new editor and many more) on **(https://k-tech.sk)** or if you want to check out the old version that is running on this repository code access it here **(https://jakubito11.github.io/logicsim)**
+Version that is running on this repository code access it here **(https://jakubito11.github.io/logicsim)**
 
 ## Introduction
 
