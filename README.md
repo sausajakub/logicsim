@@ -1,4 +1,4 @@
-# LogicSim Old Version
+# LogicSim
 
 ## Web App
 
