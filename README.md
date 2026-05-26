@@ -12,8 +12,6 @@ Logic circuit simulator created in JavaScript and with the help of the Konva.js 
 
 ![demo gif animation](demo.gif)
 
-Try it on **(https://jakubito11.github.io/logicsim)**
-
 ## Limitations
 
 No support for smaller screens and mobiles.
@@ -25,7 +23,7 @@ Circuit netlist.
 
 ## Author
 
-👤 **[Jakub Šauša](https://github.com/jakubito11)**
+👤 **[Jakub Šauša](https://github.com/atomicpunk1)**
 
 ## License
 
