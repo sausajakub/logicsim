@@ -2,7 +2,7 @@
 
 ## Web App
 
-Version that is running on this repository code access it here **(https://jakubito11.github.io/logicsim)**
+Version that is running on this repository code access it here **(https://sausajakub.github.io/logicsim)**
 
 ## Introduction
 
@@ -23,7 +23,7 @@ Circuit netlist.
 
 ## Author
 
-👤 **[Jakub Šauša](https://github.com/atomicpunk1)**
+👤 **[Jakub Šauša](https://github.com/sausajakub)**
 
 ## License
 
