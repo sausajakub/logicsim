@@ -447,7 +447,7 @@ export var lang = {
         Save_project: "Save current project?",
 
         WelcomeTitle: "Logical Circuit Simulator",
-        WelcomeText: "Welcome to LogicSim! Your one stop shop for all your circuit simulation needs. Whether you are an experienced electrical engineering enthusiast or a curious beginner. With an intuitive interface and an extensive library of components at your fingertips, you can bring your ideas to life and watch the magical world of logical circuits in action. Let LogicSim be your trusted companion on your electrifying journey into the world of circuits. Happy simulating!",
+        WelcomeText: "Welcome to LogicSim!  Whether you are a begginer or know something about digital logic. With an intuitive interface and an extensive library of components, you can try your ideas and watch logical circuits in action. Happy simulating!",
 
         ChangeSettings: "Change Settings",
         Tutorial1: "Simple change of the entire page settings. You can modify the color scheme, language, and many other settings for working in the editor.",
