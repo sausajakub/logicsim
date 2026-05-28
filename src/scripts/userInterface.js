@@ -190,7 +190,7 @@ class UserInterface {
 
     createLink(linkName, innerIcon) {
 
-        return `<li class="mainLink"><a class="link" href="https://github.com/jakubito11">${innerIcon} ${linkName}</a></li>`;
+        return `<li class="mainLink"><a class="link" href="https://github.com/sausajakub">${innerIcon} ${linkName}</a></li>`;
 
     }
 
